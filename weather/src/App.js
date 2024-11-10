@@ -17,7 +17,13 @@ function App() {
         <a
           href="https://github.com/CxMilan/React-Weather-App-Week5"
           target="_blank">
-          github
+          GitHub
+        </a>
+        and hosted on
+        <a
+          href="https://app.netlify.com/sites/react-meteo-app-week5/overview"
+          target="_blank">
+          Netlify
         </a>
       </footer>
     </div>
